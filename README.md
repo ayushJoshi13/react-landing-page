@@ -1,12 +1,36 @@
-# React + Vite
+# 🚀 Modern React Responsive Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **modern, fully responsive landing page** built using **React**, **Tailwind CSS**, and **Framer Motion**. It demonstrates clean, component-based design, responsive layouts, utility-first styling with Tailwind, motion animations, and best practices for building sleek marketing pages.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
 
-## Expanding the ESLint configuration
+✅ Modern React (functional components & hooks)  
+✅ Tailwind CSS for styling  
+✅ Framer Motion for smooth animations  
+✅ Fully responsive design (mobile-friendly)  
+✅ Smooth navbar with mobile toggle  
+✅ Hero section with CTA  
+✅ Purpose section to highlight mission  
+✅ Features section with icons  
+✅ Testimonials carousel (Swiper.js)  
+✅ Subtle animations (hover, blur, transitions)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Project Preview
+
+![Landing Page Screenshot](./src/assets/React%20Landing%20Page%20using%20React,%20Tailwind%20CSS,%20and%20Framer%20Motion.png)
+
+---
+
+## 🛠️ Tech Stack
+
+- **React**
+- **Tailwind CSS**
+- **Framer Motion**
+- **Swiper.js** (for testimonials slider)
+- **Vite** (or CRA)
+
+---
