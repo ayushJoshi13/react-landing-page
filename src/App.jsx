@@ -3,8 +3,14 @@ import FeaturesSection from "./components/FeaturesSection";
 import Hero from "./components/Hero";
 import MonitorSection from "./components/MonitorSection";
 import Navbar from "./components/Navbar";
+import PricingSection from "./components/PricingSection";
 import PurposeSection from "./components/PurposeSection";
 import ScheduleSection from "./components/ScheduleSection";
+import ServicesSection from "./components/ServicesSection";
+import TestimonialSection from "./components/TestimonialSection";
+import './App.css'
+import NewsLetterSection from "./components/NewsLetterSection";
+import Footer from "./components/Footer";
 
 function App() {
   
@@ -19,6 +25,11 @@ function App() {
         <FeaturesSection />
         <ScheduleSection />
         <MonitorSection />
+        <PricingSection />
+        <ServicesSection />
+        <TestimonialSection />
+        <NewsLetterSection />
+        <Footer />
       </div>
     </main>
   );
